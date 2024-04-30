@@ -1,6 +1,10 @@
+body {
+  margin-top: 10vh;
+}
+
 .card-wrapper {
   margin: auto;
-  margin-top: 30vh;
+  margin-top: 50px;
   height: 200px;
 }
 
@@ -41,12 +45,9 @@
 }
 
 @media (max-width: 1000px) {
-  .card-wrapper {
-    margin-top: 10vh;
-  }
-
   .card-body {
+    margin-bottom: 10vh;
     width: 90vw;
-    height: 50vh;
+    height: 100%;
   }
 }
