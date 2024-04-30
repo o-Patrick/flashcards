@@ -40,10 +40,6 @@
   transform: rotateX(180deg);
 }
 
-img {
-  width: 100%;
-}
-
 @media (max-width: 1000px) {
   .card-wrapper {
     margin-top: 10vh;
