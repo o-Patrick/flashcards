@@ -32,4 +32,10 @@ h1 {
   max-width: 700px;
   min-height: 100px;
   margin: 20px auto;
+  padding: 15px;
+}
+
+.subject_button:hover {
+  background-color: #4444e9;
+  transition: linear 300ms;
 }
